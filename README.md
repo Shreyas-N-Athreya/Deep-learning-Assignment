@@ -1,5 +1,6 @@
-Deep-Learning
-Submitted by -
+# Deep-Learning
+
+Submitted by :
 
 Shreyas N Athreya
 
